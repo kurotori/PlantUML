@@ -1,0 +1,7 @@
+@startuml Diagrama01
+
+entity Entidad1{
+    atributo:tipo
+}
+
+@enduml
